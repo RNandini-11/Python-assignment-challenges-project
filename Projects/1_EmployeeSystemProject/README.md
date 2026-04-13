@@ -1,4 +1,4 @@
-# Python-assignment-challenges-project
+# Employee-System-Project
 The Employees System Project is a simple Python-based project that showcases the use of object-oriented programming (OOP) principles. It includes three main classes: Employee, EmployeesManager, and FrontendManager. This project provides a basic example of managing employee data and interactions using OOP concepts.
 
 # Table of Contents
